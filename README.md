@@ -26,6 +26,17 @@
 - entarteiment and media
 - web and ui design
   
-## Images API
+## Generate images via Images API
 
-### 
+### Images API
+
+[Images API](https://platform.openai.com/docs/guides/images-vision?api-mode=responses)
+[Create image API](https://platform.openai.com/docs/api-reference/images/create)
+
+### Pricing
+
+[DALL-E 3 pricing](https://platform.openai.com/docs/pricing)
+
+### Example
+
+image-generation-in-action
